@@ -8,9 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = SchemaPlus::PgFunctions::VERSION
   gem.authors       = ["mvgijssel"]
   gem.email         = ["maarten@hackerone.com"]
-  gem.summary       = %q{TODO: Write a short summary. Required.}
-  gem.description   = %q{TODO: Write a longer description. Optional.}
-  gem.homepage      = "https://github.com/SchemaPlus/schema_plus_pg_functions"
+  gem.summary       = %q{Adds support in ActiveRecord for PostgreSQL functions.}
+  gem.homepage      = "https://github.com/mvgijssel/schema_plus_pg_functions"
   gem.license       = "MIT"
 
   gem.files         = `git ls-files -z`.split("\x0")

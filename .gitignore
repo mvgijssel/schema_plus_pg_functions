@@ -7,3 +7,5 @@
 *.log
 *.sqlite3
 !gemfiles/**/*.sqlite3
+
+*.swp
